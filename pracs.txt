@@ -1,0 +1,37 @@
+
+* CPU Scheduling 
+→ FCFS
+→ Shortest Job First (Shortest Burst Time Non Preemptive)
+→ Shortest Remaining Time First (Shortest Burst Time Preemptive)
+→ Priority based (Non Preemptive)
+→ Priority based (Preemptive)
+→ Round Robin
+
+
+* Banker's Algorithm for Deadlock Avoidance
+
+* Placement Algorithms
+→ First Fit
+→ Next Fit
+→ Best Fit
+→ Worst Fit
+
+* Page Replacement Algorithms
+→ FIFO
+→ LRU
+→ LFU
+→ Optimal
+
+* Disk Scheduling Algorithms
+→ FCFS
+→ SSTF
+→ SCAN
+→ CSCAN
+→ LOOK
+→ CLOOK
+
+
+* Multithreading Implementation 
+
+
+* Producer Consumer Problem 
